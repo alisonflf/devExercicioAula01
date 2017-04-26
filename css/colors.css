@@ -1,0 +1,48 @@
+/* Header */
+
+.pageHeader__pageTitle {
+    background-color: #007EA7;
+    color: #CCDBDC;
+}
+
+.headerNavigator__list {
+    background-color: #007EA7;
+}
+
+/* Body */
+.container {
+    background: #9AD1D4;
+}
+
+.body {
+    background-color: #CCDBDC;
+}
+
+/* Navigators */
+
+.itemLista__link {
+    color: #CCDBDC;
+}
+
+.itemLista__link:hover {
+   background: #80CED7;
+   color: #007EA7;
+}
+
+.mainAside__navigator__list__link {
+   background: #80CED7;
+   color: #003249; 
+}
+
+.mainAside__navigator__list__link:hover {
+    background: #003249;
+    color: #CCDBDC;
+}
+
+/* Images */
+
+.imgResponsiva__text {
+    color: #003249;
+    align-self: center;
+    font: 14px arial, sans-serif;
+}
