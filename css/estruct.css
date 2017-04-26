@@ -1,0 +1,60 @@
+a {
+    transition: all 0.4s ease;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.pageHeader__pageTitle {
+    padding: 40px 40px;
+    font: 36px arial, sans-serif;
+}
+
+.headerNavigator {
+    display: none;
+}
+
+.headerNavigator__list {
+    display: block;
+    float: none;
+    overflow: auto;
+    clear: both;
+}
+
+.itemLista {
+    float: left;
+}
+
+.itemLista__link {
+    display: block;
+    font: 12px arial, sans-serif;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.pageMain__section {
+    float: right;
+    width: 80%;
+}
+
+.pageFooter {
+    clear: both;
+}
+
+.pageFooter__address {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.imgResponsiva {
+    width: 100%;
+}
+
+.imgResponsiva__text {
+    padding-left: 5%;
+}

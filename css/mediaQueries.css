@@ -1,0 +1,29 @@
+@media screen and (max-width: 600px) {
+    .pageHeader__pageTitle {
+        font-size: 24px;
+    }
+    
+    .pageMain__section {
+        width: 100%;
+    }
+    .mainAside {
+        display: none;
+        width: 100%;
+    }
+    
+    .headerNavigator {
+        display: block;
+    }
+    
+    .imgResponsiva__text {
+        font: 12px arial, sans-serif;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .pageHeader__pageTitle {
+        font-size: 18px;
+        padding: 12% 0% 8% 5%;
+    }
+    
+}
