@@ -1,0 +1,10 @@
+.mainAside {
+    float: left;
+    font: 14px arial, sans-serif;
+    width: 20%;
+}
+
+.mainAside__navigator__list__link {
+    display: block;
+    padding: 8% 8%;
+}
