@@ -1,12 +1,4 @@
-a {
-    transition: all 0.4s ease;
-}
-
-.container {
-    width: 90%;
-    margin: 0 auto;
-}
-
+/* header */
 .pageHeader__pageTitle {
     padding: 40px 40px;
     font: 36px arial, sans-serif;
@@ -23,6 +15,24 @@ a {
     clear: both;
 }
 
+/* Body */
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.pageMain__section {
+    float: right;
+    width: 80%;
+}
+
+/* Navigator */
+
+a {
+    transition: all 0.4s ease;
+}
+
 .itemLista {
     float: left;
 }
@@ -36,10 +46,7 @@ a {
     padding-bottom: 10px;
 }
 
-.pageMain__section {
-    float: right;
-    width: 80%;
-}
+/* Footer */
 
 .pageFooter {
     clear: both;
